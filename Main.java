@@ -1,11 +1,11 @@
 public class Main {
     public static void main(String[] args) {
 
-        Profesor profesor1 = new Profesor("Julio", 40);
-        Profesor profesor2 = new Profesor("Eduardo", 38);
+        Profesor profesor1 = new Profesor("Edith", 40);
+        Profesor profesor2 = new Profesor("Diego", 38);
 
-        Estudiante estudiante1 = new Estudiante("Maritza", 20);
-        Estudiante estudiante2 = new Estudiante("David", 21);
+        Estudiante estudiante1 = new Estudiante("Jafet", 20);
+        Estudiante estudiante2 = new Estudiante("Gustavo", 21);
         Estudiante estudiante3 = new Estudiante("Claudia", 20);
 
         Horario horario1 = new Horario("Lunes", "08:00", "10:00");
